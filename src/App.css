@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Yatra+One&display=swap" rel="stylesheet');
+
+body {
+  background-color: #c3c0c0 !important;
+}
+
+.App {
+  display: flex;
+  justify-content: center;
+}
+
+.quotation, .title {
+  font-family:'Yatra One', cursive;
+  font-size: 30px;
+  text-decoration: underline;
+}
+
+.authorQuote {
+  font-family:'Yatra One', cursive;
+  font-size: 20px;
+  text-decoration: underline;
+}
+
+a {
+  color: white;
+}
+a:visited {
+  color: white;
+  text-decoration: none;
+}
